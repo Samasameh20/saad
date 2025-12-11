@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\practice\\Project1\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\practice\\saad\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{731F2C7F-6393-487F-A696-7D58D544269B}|Project1\\Project1.vcxproj|C:\\Users\\Dell\\Desktop\\practice\\Project1\\Project1\\Source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{731F2C7F-6393-487F-A696-7D58D544269B}|Project1\\Project1.vcxproj|C:\\Users\\Dell\\Desktop\\practice\\saad\\Project1\\Project1\\sama.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{731F2C7F-6393-487F-A696-7D58D544269B}|Project1\\Project1.vcxproj|solutionrelative:Project1\\sama.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731F2C7F-6393-487F-A696-7D58D544269B}|Project1\\Project1.vcxproj|C:\\Users\\Dell\\Desktop\\practice\\saad\\Project1\\Project1\\Source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{731F2C7F-6393-487F-A696-7D58D544269B}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{731F2C7F-6393-487F-A696-7D58D544269B}|Project1\\Project1.vcxproj|C:\\Users\\Dell\\Desktop\\practice\\Project1\\Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{731F2C7F-6393-487F-A696-7D58D544269B}|Project1\\Project1.vcxproj|C:\\Users\\Dell\\Desktop\\practice\\saad\\Project1\\Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{731F2C7F-6393-487F-A696-7D58D544269B}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -39,10 +43,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "sama.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\practice\\saad\\Project1\\Project1\\sama.cpp",
+              "RelativeDocumentMoniker": "Project1\\sama.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\practice\\saad\\Project1\\Project1\\sama.cpp",
+              "RelativeToolTip": "Project1\\sama.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-11T21:54:34.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Source1.cpp",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\practice\\Project1\\Project1\\Source1.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\practice\\saad\\Project1\\Project1\\Source1.cpp",
               "RelativeDocumentMoniker": "Project1\\Source1.cpp",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\practice\\Project1\\Project1\\Source1.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\practice\\saad\\Project1\\Project1\\Source1.cpp",
               "RelativeToolTip": "Project1\\Source1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -51,11 +68,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\practice\\Project1\\Project1\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\practice\\saad\\Project1\\Project1\\Source.cpp",
               "RelativeDocumentMoniker": "Project1\\Source.cpp",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\practice\\Project1\\Project1\\Source.cpp",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\practice\\saad\\Project1\\Project1\\Source.cpp",
               "RelativeToolTip": "Project1\\Source.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
